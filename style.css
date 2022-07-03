@@ -1,0 +1,13 @@
+.image{
+    display: block;
+    margin:auto;
+    width: 50%;
+   }
+
+.body {
+    display: block;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
